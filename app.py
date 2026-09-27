@@ -1,5 +1,5 @@
 # Жоба: 35-нұсқа
-TITLE = "Variant-35 (нұсқа A)"
+TITLE = "Variant-35 (A+B)"
 VERSION = "1.0"
 
 def main():
